@@ -1,3 +1,5 @@
+# This repo has moved to https://github.com/Sage-Bionetworks-IT/organizations-infra/tree/master/sceptre/admincentral
+
 # Overview
 Install, configure and manage the AWS AdminCentral account.
 
